@@ -1,0 +1,7 @@
+# Hugging Face
+transformers==4.44.2
+torch==2.4.0
+
+# Utilities
+python-dotenv==1.0.1
+PyPDF2==3.0.1
