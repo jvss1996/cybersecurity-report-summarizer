@@ -1,0 +1,2 @@
+Executive Summary:
+IBM X-Force: Cyberattacks continue to grow in scale, speed, and sophistication. Threat actors are pursuing larger-scale campaigns. Unlike in the past, widescale business disruption is now a real possibility. The Salt Typhoon attack demonstrates that threat actors are becoming more proficient at hiding illicit activity. They are massively increasing their use of compromised credentials to log in to networks.
