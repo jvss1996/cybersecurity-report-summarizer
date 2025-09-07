@@ -41,7 +41,7 @@ cybersecurity-report-summarizer/
 ## ▶️ Usage
 Run the summarizer with:
 ```bash
-python3 main.py sample_report.pdf
+python3 text_summarizer.py sample_report.pdf
 ```
 If no argument is given, it defaults to sample_report.pdf.
 
