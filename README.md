@@ -51,4 +51,4 @@ Output -> (summary.txt)
 
 ## 🛠 Requirements
 - Python 3.8+
-- Hugging Face account & API key (free tier available)
+- Hugging Face account & API key
